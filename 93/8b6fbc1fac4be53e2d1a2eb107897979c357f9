@@ -1,0 +1,4 @@
+changeset 43519196b015d3ffd48b52924e5e6a4a4257f8fb
+manifest b3283ec9ef0f8c5695ed206975d212596b4a8765
+extra branch:0.5.3
+files Resources/Orthanc/CMake/DownloadOrthancFramework.cmake
